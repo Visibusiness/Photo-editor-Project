@@ -1,5 +1,3 @@
-// Copyright Vișănescu Bogdan-Emilian 2023 - 2024
-
 # Image Editing Program
 
 ## Overview
@@ -156,3 +154,4 @@ from the program.
 
 
 
+Copyright Vișănescu Bogdan-Emilian 2023 - 2024
