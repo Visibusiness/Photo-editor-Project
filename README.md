@@ -1,4 +1,4 @@
-// Copyright Vișănescu Bogdan-Emilian 313CAb 2023 - 2024
+// Copyright Vișănescu Bogdan-Emilian 2023 - 2024
 
 # Image Editing Program
 
